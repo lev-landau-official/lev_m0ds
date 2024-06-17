@@ -12,7 +12,7 @@ Each cheat can be turn on/off by pressing *X* (can be changed in settings) and d
 
 -  **CamHack**. An airbreak spin-off! This time your character stays in place, you move camera instead.
 
-- **CarControl**. Do you remember sitting in a car as a passenger and thinking to yourself *driver ain't got no clue how to move 'em wheels*? This cheat lets you do something about it. Activate it and take control over the car. Use with great caution as it is easly detectable.
+- **CarControl**. Do you remember sitting in a car as a passenger and thinking to yourself *driver ain't got no clue how to move 'em wheels*? This cheat lets you do something about it. Activate it and take control over the car. Use with great caution as it is easily detectable.
 
 - **MegaHop**. The concept and the cheat itself developed by me. You can bunny-hop very high using your bike, though it takes real skill to perform it. This cheat allows you to perform such tricks effortlessly. Basically undetectable, should be turned on at all times. I have been jumping around a dozen of admins lately; they would sit there staring at me doing nothing. Other than applauding my amazing bike manipulation skills.
 
