@@ -1,8 +1,8 @@
 # lev_m0ds :: SAMP ultimate CLEO mods
 
-In short, *lev_m0ds* is a collection of cheats I personally find of great use. As of now all of them are developed by me.
+A collection of cheats I personally find of great use. As of now all of them are developed by me.
 
-Each cheat can be turn on/off by pressing X (can be changed in settings) and double-clicking an appropriate cheat button. You will never ever turn your cheat on/off by accident again. And you do not need to enter long cheat names to activate them. Convenient very much. Also each cheat can be set to stay auto-turned on/off when your game starts (can be changed in settings), therefore often times you will have an unfair advantage over others without realizing it.
+Each cheat can be turn on/off by pressing X (can be changed in settings) and double-clicking an appropriate button. You will never ever turn your cheat on/off by accident again. And you don't need to memorize long cheat names to activate them. Convenient very much. Also each cheat can be set to stay auto-turned on/off when your game starts (can be changed in settings), therefore often times you will have an unfair advantage over others without realizing it.
 
 ## Cheats
 
@@ -30,13 +30,12 @@ Each cheat can be turn on/off by pressing X (can be changed in settings) and dou
 
 ## Not working?
 
-- SAMP v0.3.7-R5 only!
-- make sure you've got CLEO v4.4.1 (or higher). Compatibility with other CLEO versions not guaranteed. 
+- single player not supported, SAMP v0.3.7-R5 only!
+- make sure you have CLEO v4.4.1 (or higher) in place. Compatibility with other CLEO versions not guaranteed. 
 - read `lev_m0ds.log` file, sometimes it's written in there what's the problem.
-- get in touch with me, may help
 
 ##
 
-That's that, time to go wreck havoc on those SAMP servers
+That's that, time to go wreck havoc on those SAMP servers!
 
 <sup>Lev_Landau © 2024</sup>
