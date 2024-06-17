@@ -4,7 +4,7 @@
 
 - Validity extended to *13 Jun, 2025*
 - New cheat added *NoReload* by Lev_Landau
-- Encryption system improvements, based on *cleo_cryptor*
+- Encryption system improvements, now loosely based on [cleo_cryptor](https://github.com/lev-landau-official/cleo_cryptor)
 - Other improvements
 
 ## v1.06 (Jul 12, 2023)
