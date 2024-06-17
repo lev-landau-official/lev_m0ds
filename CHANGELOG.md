@@ -40,7 +40,7 @@
 
 - Validity extended to *Jun 1, 2014*
 - New cheat added *CamHack*
-- Debugging feature introduced
+- Logging feature introduced
 - Other improvements
 
 ## v1.00 (Jan 12, 2014)
