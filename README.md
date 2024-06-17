@@ -8,7 +8,7 @@ Each cheat can be turn on/off by pressing *X* (can be changed in settings) and d
 
 - **AirBreak**. This is the most advanced version of airbreak you have ever seen and most definitely you will not see a better version of it anywhere else. Unless I release a better one no doubt. You all know what it does - makes you fly. Press *Enter* (can be changed in settings) to tweak all the parameters. This cheat is easily detectable, should be used with great caution. Unless you are an admin, in which case fly high and thus assert your dominance.
 
-- **AutoCbug**. Cbug is a weird technique of shooting faster, using either *deagle* or *shotgun*. Also Cbug allows to move instantly after shooting is over (applies to many other guns). Back the day it required real skill to perform it, but not anymore. Shoot like a pro, reap rewards and impress everyone; while deep inside staying an absolute amateur. Any self-respecting server has anti-cbug system installed, therefore this cheat is disabled by default (configure .ini file to change default behaviour).
+- **AutoCbug**. Cbug is a weird technique of shooting faster, using either *deagle* or *shotgun*. Also Cbug allows to move instantly after shooting is over (applies to many other guns). Back the day it required real skill to perform it, but not anymore. Shoot like a pro, reap rewards and impress everyone; while deep inside staying an absolute amateur. Any self-respecting server has anti-cbug system installed, therefore this cheat is disabled by default (configure `lev_m0ds.ini` file to change default behaviour).
 
 -  **CamHack**. An airbreak spin-off! This time your character stays in place, you move camera instead.
 
