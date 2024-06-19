@@ -46,4 +46,3 @@
 ## v1.00 (Jan 12, 2014)
 
 - Initial release
-- *SilentMode* feature introduced
